@@ -33,11 +33,5 @@ Este archivo contiene una página HTML más compleja con varios elementos:
 - Node.js (versión 14 o superior)
 - NPM (Node Package Manager)
 
-Para verificar la instalación de Node.js y NPM, puede ejecutar los siguientes comandos:
-
-```bash
-node -v
-npm -v
-
 ## autores
 -Emily Abril VAzquez Moreno 357623
